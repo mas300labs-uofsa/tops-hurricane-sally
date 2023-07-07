@@ -29,6 +29,11 @@ al192020_best_track.zip
 al192020_windswath.kmz
 ```
 
+HURDAT2
+```
+https://www.nhc.noaa.gov/data/hurdat/hurdat2-1851-2022-050423.txt
+```
+
 You can just open the kmz's in Google Earth.
 
 The search url for Hurricane Sally 2020 is:
