@@ -46,7 +46,7 @@ The .zip file has shapefiles with the same information as the kmz's.
 To provide additional context for the best-track data, model outputs of wind (north–south and east–west components) at 10-m height 
 were collected from the North American Meso- scale Forecast System (NAM), which is produced by National
 Centers for Environmental Prediction (NCEP) and archived at the National Centers for Environmental Information (NCEI). 
-The NAM Analysis product was used (https://www.ncei.noaa. gov/data/north-american-mesoscale-model/access/analysis/). 
+The NAM Analysis product was used (https://www.ncei.noaa.gov/data/north-american-mesoscale-model/access/analysis/). 
 This product has a spatial resolution of 12 km and temporal resolution of 6 h. 
 This modeling system is commonly used in hurricane re- search (e.g., Garzon et al. 2018; Liu et al. 2020).
 
