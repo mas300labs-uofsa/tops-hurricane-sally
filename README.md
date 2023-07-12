@@ -1,4 +1,4 @@
-# ScienceCore: Follow the rapid intensification of Hurricane Sally
+# ScienceCore: Hurricane Sally
 
 NASA'S [Transform to Open Science](https://nasa.github.io/Transform-to-Open-Science) 
 
