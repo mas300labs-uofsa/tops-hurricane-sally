@@ -6,7 +6,7 @@ Our goal is to develop tutorials for the data collection, analysis methods, and 
 
 ## Open-Source Science
 
-From NASA'S Open-Source Science Initiative (OSSI)
+From NASA'S Open-Source Science Initiative (OSSI):
 > Open-source science requires a culture shift to a more inclusive, transparent, and collaborative scientific process, which will increase the pace and quality of scientific progress.
 
 As part of the OSSI, course materials are being developed for Open Science 101, also called **OpenCore**.  Beyond the basics, it is often difficult
