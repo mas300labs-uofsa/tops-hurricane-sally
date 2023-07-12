@@ -1,4 +1,7 @@
-# tops-hurricane-sally
+# ScienceCore
+
+
+ScienceCore is a curriculum of discipline-specific materials that showcase open-science workflows.
 
 ## What this is...
 Our goal is to develop tutorials for the data collection, analysis methods, and visualization techniques used in physical oceanography, using the following paper as a concrete example. 
