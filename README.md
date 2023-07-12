@@ -15,6 +15,9 @@ but the scientific conclusions are made by domain scientists, often with decades
 As we build this tutorial, please comment and post questions on any of the included computational science topics - we're here to help!  The domain science
 topics are not in our scope, but perhaps we can point you to your nearest expert.
 
-## 
+## NASA Transform to Open Science
+This effort is funded by NASA'S [Transform to Open Science](https://nasa.github.io/Transform-to-Open-Science) Training (TOPST) program under award 80NSSC23K0863 to North Carolina State University and with University of South Alabama.
+
+[Get started with Open Science!](https://nasa.github.io/Transform-to-Open-Science-Book/Open_Science_Cookbook/Your_Open_Science_Journey.html#section-1-core-open-science-skills)
 
 
