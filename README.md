@@ -4,9 +4,9 @@ Our goal is to develop tutorials for the data collection, analysis methods, and 
 
 B. Dzwonkowski, S. Fournier, G. Lockridge, J. Coogan, Z. Liu, and K. Park. [Hurricane Sally (2020) Shifts the Ocean Thermal Structure across the Inner Core during Rapid Intensification over the Shelf.](https://journals.ametsoc.org/view/journals/phoc/52/11/JPO-D-22-0025.1.xml) Journal of Physical Oceanography, 52(11), 2841-2852.
 
-The article combines field data with MUR satellite data to understand the sea surface temperature conditions associated with a hurricane undergoing rapid intensification over the continental shelf.
+The article combines field data with MUR satellite data to understand the sea surface temperature(SST) conditions associated with a hurricane undergoing rapid intensification over the continental shelf.
 
-> [...differences] were large enough to potentially influence how quickly storms can intensify, suggesting that coastal thermal features need to be accounted for to improve storm forecasting.
+> [...results suggest] that coastal thermal features need to be accounted for to improve storm forecasting.
 
 
 ## Open-Source Science
