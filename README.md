@@ -16,16 +16,13 @@ From NASA'S Open-Source Science Initiative (OSSI):
 > Open-source science requires a culture shift to a more inclusive, transparent, and collaborative scientific process, which will increase the pace and quality of scientific progress.
 
 As part of the OSSI, course materials are being developed for Open Science 101, also called **OpenCore**.  Beyond the basics, it is often difficult
-to find the time or motivation to study something not *specifically* and *immediately* applicable to our current workloads.  Enter ***ScienceCore***: 
+to find the time or motivation to study something not specifically applicable to our current workloads.  Enter ***ScienceCore***: 
 > ScienceCore is a curriculum of discipline-specific materials that showcase open-science workflows.
 
 So, *specifically*, we will find, download, and visualize
 - Tropical Cyclone Best Track data ([NOAA National Hurricane Center](https://www.nhc.noaa.gov/))
 - Meteorological and hydrographic data ([NOAA National Data Buoy Center](https://www.ndbc.noaa.gov/))
 - Multi-scale Ultra-high Resolution ([MUR](https://podaac.jpl.nasa.gov/dataset/MUR-JPL-L4-GLOB-v4.1)) Sea Surface Temperature (NASA JPL)
-
-Our aim is to make it possible for you to start doing this *immediately*.  If you are having difficulties following along, please let us know so we
-can improve these materials.
 
 ## Scope
 
