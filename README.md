@@ -26,7 +26,7 @@ So, *specifically*, we will find, download, and visualize
 
 ## Scope
 
-We hope to make data collection and coding tasks accessible to any student or researcher regardless of computing background.  As we build this tutorial, please comment and post questions on any of the included computational science topics - we're here to help!
+We hope to make data collection and computational tasks accessible to any student or researcher regardless of computing background.  As we build this tutorial, please comment and post questions on any of the included computational science topics - we're here to help!
 
 Scientific conclusions are made by domain scientists, often with decades of experience. Specific domain science questions are out of our scope, but perhaps we can point you to your nearest expert.
 
