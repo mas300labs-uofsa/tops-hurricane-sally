@@ -17,3 +17,5 @@ To follow Hurricane Sally (2020), we will need to find, download, and visualize
 
 This effort is funded by NASA's [Transform to Open Science](https://nasa.github.io/Transform-to-Open-Science) Training (TOPST) program under award 80NSSC23K0863 to North Carolina State University with University of South Alabama.
 
+For additional project details, please see **[ScienceCore for Marine Sciences.](https://github.com/TOPS-Marine-ScienceCore/.github/blob/main/README.md)**
+
