@@ -30,9 +30,9 @@ We hope to make data collection and computational tasks accessible to any studen
 
 Scientific conclusions are made by domain scientists, often with decades of experience. Specific domain science questions are out of our scope, but perhaps we can point you to your nearest expert.
 
-## NASA Transform to Open Science
+## NASA's Transform to Open Science
 
-This effort is funded by NASA'S [Transform to Open Science](https://nasa.github.io/Transform-to-Open-Science) Training (TOPST) program under award 80NSSC23K0863 to North Carolina State University and with University of South Alabama.
+This effort is funded by NASA's [Transform to Open Science](https://nasa.github.io/Transform-to-Open-Science) Training (TOPST) program under award 80NSSC23K0863 to North Carolina State University with University of South Alabama.
 
 See the [Proposal Summary](summary.md) for more details.
 
