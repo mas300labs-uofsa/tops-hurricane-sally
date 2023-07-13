@@ -6,7 +6,8 @@ B. Dzwonkowski, S. Fournier, G. Lockridge, J. Coogan, Z. Liu, and K. Park. [Hurr
 
 The article combines field data with MUR satellite data to understand the sea surface temperature(SST) conditions associated with a hurricane undergoing rapid intensification over the continental shelf.
 
-> [...results suggest] that coastal thermal features need to be accounted for to improve storm forecasting.
+The results
+> suggest that coastal thermal features need to be accounted for to improve storm forecasting.
 
 
 ## Open-Source Science
