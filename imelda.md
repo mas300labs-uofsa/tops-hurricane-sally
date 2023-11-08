@@ -10,6 +10,9 @@ September 10
 Expanse
 ```
 cd $SCRATCH
-mkdir imelda
 cd imelda
-wget https://www.ncei.noaa.gov/data/north-american-mesoscale-model/access/historical/analysis/201909/20190910/namanl_218_20190910_0000_000.grb2
+./script_imelda.sh > getimelda.sh
+chmod u+x getimelda.sh
+./getimelda.sh
+```
+
