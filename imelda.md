@@ -16,3 +16,17 @@ chmod u+x getimelda.sh
 ./getimelda.sh
 ```
 
+It is 1.9GB
+```
+(base) [llowe@login01 imelda]$ du -d 0 -h .
+1.9G	.
+```
+
+Make python environment
+```
+conda create --prefix ~/env_nam cfgrib
+```
+
+
+
+
