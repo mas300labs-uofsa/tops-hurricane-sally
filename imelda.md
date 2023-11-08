@@ -25,7 +25,10 @@ It is 1.9GB
 Make python environment
 ```
 conda create --prefix ~/env_nam cfgrib
+conda activate ~/env_nam
 ```
+
+
 
 
 
